@@ -69,6 +69,8 @@ namespace Web_API.Controllers
 
             return NoContent();
         }
+        // 6. Bulk add multiple tasks in one request
+        // 7. Bulk delete multiple tasks in one request
     }
 
 
